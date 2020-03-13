@@ -1,3 +1,7 @@
+# Installation
+```
+go get github.com/gscacco/gorex
+```
 # Usage
 ```
 Usage of gorex:
